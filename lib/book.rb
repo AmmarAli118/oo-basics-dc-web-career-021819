@@ -1,2 +1,3 @@
-
+class Book
+  def initialize ()
 
